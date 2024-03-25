@@ -4,7 +4,7 @@
 
   All the contribution and task given by mentor are been noted and added in this repo .So that it will in order and organized 
 
-  This are my info in case where you need to reach out to me :
+  # This are my info in case where you need to reach out to me :
 
   name : shashank s
   gmail : shashu8660.gmail.com
