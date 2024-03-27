@@ -1,8 +1,7 @@
-<<<<<<< HEAD
  *Packaging FLINT for cross-platform usage :*
-=======
+
  **-Packaging FLINT for cross-platform usage-**
->>>>>>> 4304e211e288182555205cc41362254b4eba7640
+
 
 **Release process plan over a 13-week period**
 
