@@ -9,13 +9,17 @@ Hello, I'm Shashank S, and I'm excited to share my background and qualifications
 
 Having embarked on my open-source journey in 2024, I quickly made strides in the community. Notably, I've made meaningful contributions to esteemed projects like LLVM and Musescore, showcasing not only my technical proficiency but also my adaptability and fast-learning abilities. These experiences have equipped me with the versatility and problem-solving acumen necessary to tackle the challenges presented by this project.
 
+**Objective**
+
+- The primary objective of my project is to streamline the distribution of FLINT across major operating systems and architectures, making it more accessible and user-friendly.
+
 
   All the contribution and task given by mentor are been noted and added in this repo .So that it will in order and organized 
 
   # This are my info in case where you need to reach out to me :
 
-  name : shashank s
-  gmail : shashu8660.gmail.com
-  timezone from : india 
+  - name : shashank s
+  - gmail : shashu8660.gmail.com
+  - timezone from : india 
 
 

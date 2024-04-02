@@ -1,4 +1,4 @@
-* Release process plan over a three-week period
+* Release process plan over a three-week outreachy contribution period
 
 **Week 1: Pre-Release Preparation**
 
