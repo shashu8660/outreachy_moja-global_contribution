@@ -1,4 +1,4 @@
- *Packaging FLINT for cross-platform usage :*
+ # Packaging FLINT for cross-platform usage :
 
  **-Packaging FLINT for cross-platform usage-**
 

@@ -27,6 +27,14 @@ Having embarked on my open-source journey in 2024, I quickly made strides in the
 
 What drives me most is the opportunity to collaborate with organizations like yours. The prospect of pushing boundaries and growing to new heights alongside professionals. I firmly believe that my passion for continuous learning and my eagerness to delve into new domains align perfectly with the aspiration of this project.
 
+*Past experience with this community:*
+
+Before the Outreachy application period, I hadn't contributed to the moja global community . I discovered moja global in January 2024 through Outreachy and have been actively participating since then, engaging in discussions, learning from mentors, and contributing to project initiatives.
+
+*Past experience with other communities:*
+
+Having embarked on my open-source journey in 2024, I quickly made strides in the community. Notably, I've made meaningful contributions such as  "good first issue" and the beginner friendly issue to esteemed projects like LLVM and Musescore  . And understanding the workflow and dependencies of the project .
+
 *Conclusion:*
 
 In summary, with a strong grasp of C++, a track record of impactful contributions, and an unwavering commitment to personal and professional growth, I am confident that I am well-suited to excel in this project. I am eager to bring my skills to the table and contribute meaningfully to your organization's objectives.
