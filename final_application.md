@@ -1,17 +1,18 @@
-*Introduction:*
+**Introduction:**
 
 Hello, I'm Shashank S, and I'm excited to share my background and qualifications for the project.I'm computer science graduate ans also with a solid foundation in C++ data structures and algorithms acquired through dedicated coursework, I bring a robust understanding of the language to the table. My journey into software development took a significant leap when I began contributing to projects like Musescore, where I honed my skills in utilizing technologies such as stack and CMake.
 
-*Relevant Project:*
+**Relevant Project:**
 
 The project that i worked in my college with my friends that is:
 
 Project Title: C++ Library Development with CMake Build System
 
-Description:
+*Description:*
+
 For this project, I developed a small C++ library aimed at providing mathematical functionalities such as matrix operations, linear algebra, and statistical analysis. The goal was to create a reusable and efficient library that could be integrated into other projects. Additionally, I set up a CMake-based build system to automate the compilation process and manage dependencies.
 
-Skill that I have gain which are relevant to the flint project are:
+*Skill that I have gain which are relevant to the flint project are:*
 
 C++ Programming: Through this project, I honed my skills in C++ programming, including object-oriented design principles, memory management, and implementing algorithms efficiently.
 
@@ -19,23 +20,23 @@ CMake Build System: Setting up a CMake-based build system taught me how to write
 
 And also worked with shell scripting to run , test and building directories and etc.
 
-*Skills and Experiences:*
+**Skills and Experiences:**
 
 Having embarked on my open-source journey in 2024, I quickly made strides in the community. Notably, I've made meaningful contributions to esteemed projects like LLVM and Musescore, showcasing not only my technical proficiency but also my adaptability and fast-learning abilities. These experiences have equipped me with the versatility and problem-solving acumen necessary to tackle the challenges presented by this project.
 
-*Motivations and Growth Aspirations:*
+**Motivations and Growth Aspirations:**
 
 What drives me most is the opportunity to collaborate with organizations like yours. The prospect of pushing boundaries and growing to new heights alongside professionals. I firmly believe that my passion for continuous learning and my eagerness to delve into new domains align perfectly with the aspiration of this project.
 
-*Past experience with this community:*
+**Past experience with this community:**
 
 Before the Outreachy application period, I hadn't contributed to the moja global community . I discovered moja global in January 2024 through Outreachy and have been actively participating since then, engaging in discussions, learning from mentors, and contributing to project initiatives.
 
-*Past experience with other communities:*
+**Past experience with other communities:**
 
 Having embarked on my open-source journey in 2024, I quickly made strides in the community. Notably, I've made meaningful contributions such as  "good first issue" and the beginner friendly issue to esteemed projects like LLVM and Musescore  . And understanding the workflow and dependencies of the project .
 
-*Conclusion:*
+**Conclusion:**
 
 In summary, with a strong grasp of C++, a track record of impactful contributions, and an unwavering commitment to personal and professional growth, I am confident that I am well-suited to excel in this project. I am eager to bring my skills to the table and contribute meaningfully to your organization's objectives.
 
